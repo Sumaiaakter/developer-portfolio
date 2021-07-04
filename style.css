@@ -9,6 +9,9 @@ h1{
     font-weight: 500;
     font-size: 30px;
 }
+.deco{
+   text-align: justify;
+}
 
 
 section{
@@ -29,4 +32,12 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+.top-banner{
+    background-image: url(image/top-banner.jpg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0%;
 }
