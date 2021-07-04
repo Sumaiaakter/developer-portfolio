@@ -16,7 +16,7 @@
 }
 
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 50px;
     
@@ -69,4 +69,7 @@ body{
     background-position: right;
     
     margin-right: 0%;
+}
+.half-width{
+    width: 50%;
 }
